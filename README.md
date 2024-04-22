@@ -38,3 +38,16 @@ This was encouraged by my professor from the beginning of the class and proved t
 The first test that gave an acceptable .txt file was somewhat late in the development process. Leading up to this point, I had been conducting small tests to check the functionality of each individual function, which often revealed missed mistakes. However, the frequent
 checks paid off when the first full test of the program worked almost perfectly. I had been using a Wikipedia page to test my program, and was stunned when I opened up the .txt file to see the sentences I expected to see there. It was truly an incredible feeling to see
 my very own program work, and made me excited to get the chance to use it for my own research.
+
+## How to Use:
+
+In order to use this program on any computer, you must download the "web_scraper.exe" file, since this contains all the necessary files and libraries needed to independently run.
+
+Once downloaded, double click on the file to run it. A command window should pop up first, then the starup GUI containing a spot for you to input a URL, then up to three unique keywords that may be found on this website.
+Click submit once ready.
+
+The program will now start to perform its web scraping duties. If any errors occur, please read the message carefully before restarting the program to avoid causing more errors.
+
+Once the sentences have been compiled into a .txt file, it will then give you the option to rename the file from its default name, as well as choose a file location to store your .txt file. Once these have been selected,
+save the file in the location. A final popup should show, saying that the file was successfully saved under the specified name and in the specified file location. Once this popup is closed, the program will finish running
+and the .txt file will be available for use.
